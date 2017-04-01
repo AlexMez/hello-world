@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8D2B8D9-AFD4-41E6-BAEF-D3FD42485C09}</ProjectGuid>
+    <ProjectGuid>{5EE003BA-D617-4A41-A1D5-AF24FA4D8657}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ReverseInputtedNum</RootNamespace>
-    <AssemblyName>ReverseInputtedNum</AssemblyName>
+    <RootNamespace>Deliver1</RootNamespace>
+    <AssemblyName>Deliver1</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
